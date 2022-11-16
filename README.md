@@ -32,7 +32,7 @@ where{
 ```
 
 
-**_Q3:   What type of bias is being propagated, and how was it detected?_**
+**_Q2:   What type of bias is being propagated, and how was it detected?_**
 
 ```
 prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
@@ -49,7 +49,7 @@ where{
 
 ```
 
-**_Q4:   What is the profile of the Actor in terms of diversity?_**
+**_Q3:   What is the profile of the Actor in terms of diversity?_**
 
 
 ```
@@ -76,7 +76,7 @@ where{
 ```
 
 
-**_Q5:  What is the relationship between the classified News and the Actor profile?_**
+**_Q4:  What is the relationship between the classified News and the Actor profile?_**
 
 ```
 prefix xsd: <http://www.w3.org/2001/XMLSchema#>
